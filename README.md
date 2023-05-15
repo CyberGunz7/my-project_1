@@ -1,2 +1,0 @@
-# suithacker
-Hackerverse Demo
